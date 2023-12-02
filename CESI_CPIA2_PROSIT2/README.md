@@ -10,10 +10,10 @@ Bienvenue dans ma résolution du prosit 2 visant à géré le chiffrement et le 
 Les diagrammes UML sont une modélisation de ma solution, réalisé en amont de la programmation ils permettent de mieux comprendre les différentes interractions dans le programme.
 
 ### Diagramme cas d'utilisation
-![image](https://github.com/RobinNoiret/Prosit-2-Fini_les_spaghettis/blob/1b0a39c62895b21e1d97dfa123a4b456c8a8df21/POO_PBL2_Use%20Case.drawio%20(1).png)
+![image](https://github.com/RobinNoiret/CESI_CPIA2_POO/blob/f98ef08758ed2bde4c6edb3cb1bb91a7182d0bb5/CESI_CPIA2_PROSIT2/POO_PBL2_Use%20Case.drawio%20(1).png)
 
 ### Diagramme de classe
-![image](https://github.com/RobinNoiret/Prosit-2-Fini_les_spaghettis/blob/1b0a39c62895b21e1d97dfa123a4b456c8a8df21/POO%20-%20PBL2%20-%20%20Class%20Diagram.png)
+![image](https://github.com/RobinNoiret/CESI_CPIA2_POO/blob/f98ef08758ed2bde4c6edb3cb1bb91a7182d0bb5/CESI_CPIA2_PROSIT2/POO%20-%20PBL2%20-%20%20Class%20Diagram.png)
 
 ### Diagramme d'activité
 ![image](...)
