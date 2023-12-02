@@ -13,10 +13,10 @@ créer et gérer des parcours composés de points en deux ou trois dimensions, p
 Les diagrammes UML sont une modélisation de ma solution, réalisé en amont de la programmation ils permettent de mieux comprendre les différentes interractions dans le programme.
 
 ### Diagramme cas d'utilisation
-![UseCase](https://github.com/RobinNoiret/Prosit3-aPoint/blob/905d5059c055033a914e1e3b8722af37b94d7dea/Use%20case%20-%20A%20point.png)
+![UseCase](https://github.com/RobinNoiret/CESI_CPIA2_POO/blob/22e0e90f57b3d0996f75cf0487cc1a6f8cc313dc/CESI_CPIA2_PROSIT3/Use%20case%20-%20A%20point.png)
 
 ### Diagramme de classe
-![image](https://github.com/RobinNoiret/Prosit3-aPoint/blob/ba852b7c1ab2ab3f349c83664b15f3540f1a0860/class%20-%20A%20point.png)
+![image](https://github.com/RobinNoiret/CESI_CPIA2_POO/blob/22e0e90f57b3d0996f75cf0487cc1a6f8cc313dc/CESI_CPIA2_PROSIT3/class%20-%20A%20point.png)
 
 ## Structure du Projet
 Le projet est structuré autour de plusieurs classes clés, notamment CLpoint, CLpoint3D, CLParcours, CLparcours2D, et CLparcours3D. Chaque classe joue un rôle spécifique dans
