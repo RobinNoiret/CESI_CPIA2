@@ -1,24 +1,24 @@
-# Mes résolutions des prosits du bloc POO
+# My solutions to the prosits of the OOP block
 
-Ce repository contient mes solutions aux prosits du bloc de Programmation Orientée Objet.
+This repository contains my solutions to the prosits of the Object Oriented Programming block.
 
 ## 📁 Structure
 
-Les exercices sont organisés dans des dossiers séparés, chacun contenant une solution complète.
+The exercises are organized in separate folders, each containing a complete solution.
 
 ## 💻 Technologies
 
 - C++
 - Visual Studio Community
 
-## 🎯 Contenu
+## 🎯 Contents
 
-Différents exercices mettant en pratique les concepts de la POO :
-- Classes et Objets
-- Héritage
+Various exercises putting OOP concepts into practice:
+- Classes and Objects
+- Inheritance
 - Encapsulation
-- Polymorphisme
+- Polymorphism
 
 ## 📝 Note
 
-Ces solutions sont des exercices réalisés dans le cadre de ma formation au CESI.
+These solutions are exercises carried out as part of my training at CESI.
